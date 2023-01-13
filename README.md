@@ -1,5 +1,5 @@
 # devops-code-snippets
 
 ## Python
-  To execute a set of commands on virtual environment
-  [Shell Script](./docs-build.sh)
+    [Shell Script](./docs-build.sh) - To execute a set of commands on virtual environment
+
