@@ -1,2 +1,5 @@
 # devops-code-snippets
-re usable code to make life easier
+
+## Python
+  To execute a set of commands on virtual environment
+  [Shell Script](./docs-build.sh)
